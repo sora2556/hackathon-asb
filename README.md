@@ -7,6 +7,11 @@ The project explores how software can help industries detect, visualize, and und
 
 This is a working prototype designed to demonstrate ideas, logic, and system thinking under real time constraints.
 
+### 📸 Screenshot
+(Add screenshot here)
+
+![](screenshots/home.png)
+
 ---
 
 ## 🧠 What the System Does
@@ -19,6 +24,11 @@ This is a working prototype designed to demonstrate ideas, logic, and system thi
 - Highlight leaks directly on the network
 - Save and reload network state using JSON
 - One-click fixing of individual or all leaks
+- 
+### 📸 Screenshot
+(Add screenshot here)
+
+![Smart Water Leakage Detection Dashboard](screenshots/leak.png)
 
 ---
 
@@ -29,6 +39,11 @@ This is a working prototype designed to demonstrate ideas, logic, and system thi
 - Flag machines as healthy or faulty
 - Suggest repair actions when thresholds are crossed
 
+### 📸 Screenshot
+(Add screenshot here)
+
+![Machine Health Dashboard](screenshots/machine_health.png)
+
 ---
 
 ### 🗑️ Invisible Waste Tracking
@@ -38,6 +53,11 @@ This is a working prototype designed to demonstrate ideas, logic, and system thi
 - Estimate cost impact
 - Visualize trends by machine, shift, and batch
 - Provide quick KPIs and detailed tables
+
+### 📸 Screenshot
+(Add screenshot here)
+
+![Invisible Waste Analysis Dashboard](screenshots/inv_waste.png)
 
 ---
 
