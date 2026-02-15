@@ -17,10 +17,11 @@ This is a working prototype designed to demonstrate ideas, logic, and system thi
 - Interactive pipe network builder
 - Add, connect, and delete nodes visually
 - Monitor pressure values at each node
-- Automatically detect leaks based on pressure drop thresholds
-- Highlight leaks directly on the network
+- Leak detection based on pressure drop thresholds between connected nodes
+- Leaks are evaluated and highlighted **after saving the network state**
+- Visual highlighting of leaking pipes
 - Save and reload network state using JSON
-- One-click fixing of individual or all leaks
+- One-click fixing of individual or all detected leaks
   
 ![Smart Water Leakage Detection Dashboard](screenshots/leak.png)
 
