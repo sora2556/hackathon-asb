@@ -81,7 +81,7 @@ http://127.0.0.1:5000
 ---
 
 ## 👥 Team
-Built during a hackathon by Team Byte404:
+Built during the hackathon by Team Byte404:
 - Sooraj Kumar S
 - Lizona Loy Parayil
 - Ryan Sebastian
